@@ -1,4 +1,4 @@
 <?php
 
-print "hello";
+print "hello new";
 ?>
